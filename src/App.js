@@ -11,7 +11,6 @@ function App() {
       <div className="navbar">
         <Nav />
       </div>
-
       <div className="Address">
         <Address />
       </div>
