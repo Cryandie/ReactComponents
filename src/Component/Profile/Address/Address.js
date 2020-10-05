@@ -4,7 +4,7 @@ export default function Address() {
   return (
     <div class="address">
       <div className="col-md-12">
-        <h5>Country :</h5>
+        <h5>Country:</h5>
         <p>Tunisia</p>
         <h5>Address:</h5>
         <p>36 Essalem, Sousse</p>
